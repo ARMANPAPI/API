@@ -1,0 +1,21 @@
+RETUREN = >application/json
+
+{
+   id : 1,
+   Name : "Arman",
+   Age : 23
+}
+
+
+RETUREN = >  application/xml
+
+<Person>
+
+<id>1</1>
+<name>Arman</name>
+<age>23</age>
+
+</Person>
+
+
+Input Fromater Or OutPout Formater

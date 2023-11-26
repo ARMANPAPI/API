@@ -1,0 +1,18 @@
+Level 200 - Success
+200 - Ok
+201 - created => Create Success 👌
+204 - No conten => Oki but dontResult
+-------------------------------------------------
+Level 400 - Client error
+
+400 - Bad Request 
+401 - Unauthorzed
+403 - Forbidden = >authorzed But Dont Forbidden 
+404 - Not found => Dont Request
+406 - Not Acceptable => من پشتیبانی نمیکنم
+409 - Conflict => دوکاربر همزمان در حال ویرایش یک رکورد هستند
+------------------------------------------------
+Level 500 - server mistake
+
+500 - Internal Server Error
+
